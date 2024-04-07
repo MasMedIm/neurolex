@@ -1,0 +1,14 @@
+ftfy
+regex
+tqdm
+torch
+torchvision
+neurosity
+python-dotenv
+matplotlib
+numpy
+pandas
+torch
+pygame
+requests
+Pillow
